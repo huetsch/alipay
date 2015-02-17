@@ -3,6 +3,7 @@ require 'alipay/utils'
 require 'alipay/sign'
 require 'alipay/service'
 require 'alipay/service/wap'
+require 'alipay/service/qrcode'
 require 'alipay/notify'
 
 module Alipay
